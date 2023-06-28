@@ -51,7 +51,7 @@ public class Jdbc_ex4 {
 				}
 			}
 			catch(SQLException e) {
-				System.out.println("connection close fail!!");
+				System.out.println("connection close fail");
 			}
 		}
 		
